@@ -1,0 +1,15 @@
+C:\Users\mnozdracheva\Desktop\C#\DZ_Seminar_9\Task_66\bin\Debug\net6.0\Task_66.exe
+C:\Users\mnozdracheva\Desktop\C#\DZ_Seminar_9\Task_66\bin\Debug\net6.0\Task_66.deps.json
+C:\Users\mnozdracheva\Desktop\C#\DZ_Seminar_9\Task_66\bin\Debug\net6.0\Task_66.runtimeconfig.json
+C:\Users\mnozdracheva\Desktop\C#\DZ_Seminar_9\Task_66\bin\Debug\net6.0\Task_66.dll
+C:\Users\mnozdracheva\Desktop\C#\DZ_Seminar_9\Task_66\bin\Debug\net6.0\Task_66.pdb
+C:\Users\mnozdracheva\Desktop\C#\DZ_Seminar_9\Task_66\obj\Debug\net6.0\Task_66.csproj.AssemblyReference.cache
+C:\Users\mnozdracheva\Desktop\C#\DZ_Seminar_9\Task_66\obj\Debug\net6.0\Task_66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnozdracheva\Desktop\C#\DZ_Seminar_9\Task_66\obj\Debug\net6.0\Task_66.AssemblyInfoInputs.cache
+C:\Users\mnozdracheva\Desktop\C#\DZ_Seminar_9\Task_66\obj\Debug\net6.0\Task_66.AssemblyInfo.cs
+C:\Users\mnozdracheva\Desktop\C#\DZ_Seminar_9\Task_66\obj\Debug\net6.0\Task_66.csproj.CoreCompileInputs.cache
+C:\Users\mnozdracheva\Desktop\C#\DZ_Seminar_9\Task_66\obj\Debug\net6.0\Task_66.dll
+C:\Users\mnozdracheva\Desktop\C#\DZ_Seminar_9\Task_66\obj\Debug\net6.0\refint\Task_66.dll
+C:\Users\mnozdracheva\Desktop\C#\DZ_Seminar_9\Task_66\obj\Debug\net6.0\Task_66.pdb
+C:\Users\mnozdracheva\Desktop\C#\DZ_Seminar_9\Task_66\obj\Debug\net6.0\Task_66.genruntimeconfig.cache
+C:\Users\mnozdracheva\Desktop\C#\DZ_Seminar_9\Task_66\obj\Debug\net6.0\ref\Task_66.dll
