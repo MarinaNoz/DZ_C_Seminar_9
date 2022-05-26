@@ -2,7 +2,7 @@
 
 Console.WriteLine("Задайте число N ");
 int n = Convert.ToInt32(Console.ReadLine());
-
+PrintNumber(n);
 
 void PrintNumber(int n)
 {
@@ -10,9 +10,4 @@ void PrintNumber(int n)
     return;
     Console.Write(n + ", ");
     PrintNumber(n - 1);
-
 }
-PrintNumber(n);
-
-
-
